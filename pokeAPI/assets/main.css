@@ -1,0 +1,24 @@
+/* .pokemonList {
+  display: inline-block;
+  border: 5px solid black;
+  border-radius: 15px;
+} */
+.pokemonList {
+  display: inline-block;
+  font-size: 20px;
+  color: green;
+}
+/* .wrapper{
+  display: inline-block;
+} */
+
+.pokeCard{
+  display: inline-block;
+  border: 5px solid black;
+  border-radius: 15px;
+  background-image: url('img/card.png')
+  ;
+  background-size: contain;
+  background-repeat: no-repeat;
+
+}
